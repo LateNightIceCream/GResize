@@ -1,7 +1,7 @@
 ![demo](demo.gif)
 
 # GResize
-Simple script to resize X-Windows to golden ratio rectangles using xwininfo and wmctrl
+Simple script to resize X-Windows to closest golden ratio rectangles using xwininfo and wmctrl
 
 ## Arguments
 ### -w, -h
