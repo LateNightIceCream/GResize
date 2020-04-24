@@ -5,8 +5,8 @@ Simple script to resize X-Windows to golden ratio rectangles using xwininfo and 
 
 ## Arguments
 ### -w, -h
-`-w`: change width based on height
+`-w`: change width based on height <br>
 `-h`: change height based on width
 
 ### -u
-`-u`: upscale. If omitted, downscale
+`-u`: upscale. <br> If omitted, downscale
